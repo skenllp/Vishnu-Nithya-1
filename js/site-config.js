@@ -50,7 +50,7 @@ window.weddingConfig = {
     }
   },
 
-  bestCompliments: 'Archana K.',
+  bestCompliments: 'Neethu, Nithin, Rajeev, Gayathri, Anusree, Avni, Dhanvin',
 
   /* RECEPTION — hidden everywhere while enabled is false.
      When the family confirms details, fill these in and set enabled: true.
@@ -72,7 +72,7 @@ window.weddingConfig = {
     groomFamily: 'assets/images/couple/family-photo.webp',
     brideFamily: 'assets/images/couple/bride family.jpeg',
     groomPortrait: 'assets/images/couple/groom-portrait.png',
-    bridePortrait: 'assets/images/couple/bride-portrait.png',
+    bridePortrait: 'assets/images/couple/bride-portrait.jpeg',
     audio: 'assets/audio/inkem-inkem_g300U6Yp.mp3'
     /* Opening video: assets/video/wedding-opening.mp4 (set in index.html for preloading) */
   }
